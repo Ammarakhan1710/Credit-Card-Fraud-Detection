@@ -22,6 +22,8 @@ Based on the testing set of 56,962 transactions:
 True Negatives are 56,862
 True Positives (Frauds Caught) are 71
 False Alarms is 2
+<img width="941" height="475" alt="image" src="https://github.com/user-attachments/assets/2700237b-f15f-4e51-bcd5-b6729cbdb15e" />
+
 
 ## How to Run
 1. Clone this repository.
